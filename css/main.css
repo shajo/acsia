@@ -11167,7 +11167,7 @@ a:focus {
 }
 
 .sidebar-dark.toggled #sidebarToggle::after {
-  color: rgba(255, 255, 255, 0);
+  color: rgba(255, 255, 255);
 }
 
 .btn-circle {
